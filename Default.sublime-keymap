@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+k","ctrl+c"], "command": "close_others" }
+]
